@@ -37,7 +37,7 @@ body{
     border-radius: 50px;
     box-shadow: -10px -10py 90px #f20044;
 }    
-.heart:after{
+.heart: after{
     content: "";
     position: absolute;
     height: 70px;
